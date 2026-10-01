@@ -1,20 +1,42 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Samanvay
 
-# Run and deploy your AI Studio app
+Samanvay is a modern web application designed to provide users with a simple and user-friendly platform. The project is built using modern web technologies with a responsive and clean interface.
 
-This contains everything you need to run your app locally.
+## 🌐 Live Demo
 
-View your app in AI Studio: https://ai.studio/apps/9f70add3-8b23-4b23-8bea-82f50907ab51
+[Visit Samanvay Live Website](https://samanvay-eta.vercel.app/)
 
-## Run Locally
+## 📌 Features
 
-**Prerequisites:**  Node.js
+- User-friendly interface
+- Responsive design
+- Modern and clean UI
+- Interactive web pages
+- Easy navigation
+- Fast and responsive performance
+- AI-powered functionality
 
+## 🛠️ Technologies Used
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- JavaScript
+- HTML
+- CSS
+
+## 📂 Project Structure
+
+```text
+Samanvay
+│
+├── src/
+├── public/
+├── index.html
+├── package.json
+├── package-lock.json
+├── tsconfig.json
+├── vite.config.ts
+├── metadata.json
+└── README.md
