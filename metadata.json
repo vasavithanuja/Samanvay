@@ -1,0 +1,6 @@
+{
+  "name": "Samanvay - Resource Circulation & Need Matching Platform",
+  "description": "Connecting surplus resources with verified care organizations, orphanages, and shelters with dynamic quantity allocation and two-way delivery confirmation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
